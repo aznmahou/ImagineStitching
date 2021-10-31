@@ -1,5 +1,5 @@
 %please place the images in the same folder as this matlab file to run
-%this method. Also have stitching.m in the same folder as Q4 as that is the
+%this method. Also have stitching.m in the same folder as RANSAC.m as that is the
 %actual function that does the image stitching
 %
 %This is just a file to load the images, resize and straighten them
